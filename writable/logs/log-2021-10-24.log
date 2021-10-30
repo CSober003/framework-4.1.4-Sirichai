@@ -1,0 +1,495 @@
+CRITICAL - 2021-10-24 07:09:48 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\Users\\CSober...', 37, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(12): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:09:49 --> count(): Parameter must be an array or an object that implements Countable
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\Users\\CSober...', 37, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(12): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:21:00 --> A non-numeric value encountered
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\CSober...', 48, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(14): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:21:05 --> A non-numeric value encountered
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\CSober...', 48, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(14): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:21:27 --> A non-numeric value encountered
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\CSober...', 48, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(14): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:21:29 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:21:59 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:22:11 --> A non-numeric value encountered
+#0 C:\Users\CSober\Desktop\framework-4.1.4\app\Views\addregis.php(48): CodeIgniter\Debug\Exceptions->errorHandler(2, 'A non-numeric v...', 'C:\\Users\\CSober...', 48, Array)
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(214): include('C:\\Users\\CSober...')
+#2 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('addregis', Array, true)
+#4 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Addregis.php(14): view('addregis', Array)
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Addregis->index()
+#6 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Addregis))
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#10 {main}
+CRITICAL - 2021-10-24 07:36:57 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:38:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:56 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:57 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:58 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:58 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:58 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:59 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:59 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:39:59 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:00 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:00 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:00 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:01 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:01 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:01 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:04 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:40:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:46:17 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:20 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:21 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:22 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:22 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:22 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:22 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:22 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:39 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:49:40 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:51:40 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:05 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:06 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:07 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:08 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:08 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:08 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:08 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+CRITICAL - 2021-10-24 07:52:09 --> Invalid file: index.php
+#0 C:\Users\CSober\Desktop\framework-4.1.4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('index.php')
+#1 C:\Users\CSober\Desktop\framework-4.1.4\system\Common.php(1092): CodeIgniter\View\View->render('index', Array, true)
+#2 C:\Users\CSober\Desktop\framework-4.1.4\app\Controllers\Home.php(9): view('index')
+#3 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(802): App\Controllers\Home->index()
+#4 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\Users\CSober\Desktop\framework-4.1.4\system\CodeIgniter.php(317): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\Users\CSober\Desktop\framework-4.1.4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 C:\Users\CSober\Desktop\framework-4.1.4\system\Commands\Server\rewrite.php(43): require_once('C:\\Users\\CSober...')
+#8 {main}
+ERROR - 2021-10-24 09:14:40 --> Unknown column 'id' in 'where clause'
+ERROR - 2021-10-24 09:19:55 --> Unknown column 'id' in 'where clause'
+ERROR - 2021-10-24 09:22:44 --> Unknown column 'id' in 'where clause'
